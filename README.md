@@ -2,4 +2,4 @@
 A visual card template management tool for supporting the simple containerization of any file into the "lolskin" format. After simple packaging, the file is opened by the current program and visualized with a customized card template management.
 
 Release the trailer
-![mmexport1761399186327](https://github.com/user-attachments/assets/cc4b0919-c3fd-4f17-9924-83c2c9400bdf)
+<img width="1670" height="966" alt="Snipaste_2025-10-27_01-49-08" src="https://github.com/user-attachments/assets/9fbb922b-9272-475a-a116-997eb4e034cb" />
